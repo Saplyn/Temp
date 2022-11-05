@@ -15,19 +15,6 @@
       - asa	
 
 
-1. asdasd
-1. asdasd
-1. asdasd
-1. asdasd
-
-~~不能这么做~~
-
-```c
-#include <stdio.h>
-int main() {
-    return 0;
-}
-```
 
 啊收到了开发商砥砺奋进阿斯利康的飞机阿斯兰的看法就撒了看大家分厘卡圣诞节发
 
